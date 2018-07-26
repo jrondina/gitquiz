@@ -25,7 +25,7 @@ b) git fetch
 c) git rebase
 d) git cherrypick
 
-4) Which action do you use to stage changes to be merged?
+4) Which action do you use to stage changes to be committed?
 
 a) git add
 b) git commit
@@ -45,5 +45,19 @@ a) .git/config
 b) .git/description
 c) .gitignore
 d) delete the file
+
+7) How do you start a new git repo?
+
+a) git add
+b) git config
+c) git init
+d) git clone
+
+8) Using the git command to compare commits, tell me how many questions were added during the second commit:
+
+a) 1
+b) 2
+c) 3
+d) 4
 
 Type your favorite programming language below:
