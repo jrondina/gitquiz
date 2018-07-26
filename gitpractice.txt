@@ -36,4 +36,6 @@ d) git clone
 
 b) 2
 
-Type your favorite programming language below: JavaScript
+Type your favorite programming language below: 
+
+JavaScript
